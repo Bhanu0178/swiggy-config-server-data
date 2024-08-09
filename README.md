@@ -1,0 +1,1 @@
+# swiggy-config-server-data
